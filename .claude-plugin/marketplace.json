@@ -1,0 +1,14 @@
+{
+  "name": "resume-skills-marketplace",
+  "description": "Resume and career skills for Claude",
+  "owner": {
+    "name": "Hassaan Sajjad"
+  },
+  "plugins": [
+    {
+      "name": "resume-skills",
+      "source": "./",
+      "description": "Collection of resume, CV, and job-application skills"
+    }
+  ]
+}
